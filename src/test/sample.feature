@@ -4,4 +4,4 @@ Feature: sample test data
     Given user is logged
     When user click on picture
     Then picture will be shown
-    When user inputs firstname as ramesh and lastname as pasupuleti
+    When user inputs firstname as ram and lastname as pas
